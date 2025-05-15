@@ -27,4 +27,4 @@ Simply open `vistara-magazine.html` in any modern web browser to view the magazi
 - Gradient header with wave shape transition
 - Animated gradient button
 - Responsive grid layout
-- Decorative AIML-themed icons 
+- Decorative AIML-themed icons
